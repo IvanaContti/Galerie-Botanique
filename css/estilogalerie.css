@@ -1,0 +1,14 @@
+
+
+.recuadro{
+   display: flex;
+   border: 1px solid black;
+   align-items: center;
+   position: relative;
+   width: 700px;
+   margin-left: 400px;
+}
+.texto{
+    position: absolute;
+    margin-left: 200px;
+}
