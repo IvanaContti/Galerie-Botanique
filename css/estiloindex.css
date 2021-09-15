@@ -17,6 +17,10 @@ body{
     color: #829297;
     
 }
+.texto2{
+    display: flex;
+    justify-content: center;
+}
 
 /*imagenes*/
 
